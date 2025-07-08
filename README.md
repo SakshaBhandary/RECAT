@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/4abbf12c-1bee-47a1-8f53-e29b901bd33d" width="300" height="300">
 <img src="https://github.com/user-attachments/assets/80290257-ef1a-411a-8d7e-dec37a855b5e" width="250" height="300">
 
-Covid Secure Recat is an integrated, contactless smart system developed using **Raspberry Pi** to manage attendance and monitor body temperature, using facial recognition and IR temperature sensor respectively. Designed for Covid-era needs, it ensures safe and efficient identity verification, real-time health checks, and auto-reporting, all in one system while maintaining low cost and high reliability.
+Covid Secure RECAT is an integrated, contactless smart system developed using **Raspberry Pi** to manage attendance and monitor body temperature, using facial recognition and IR temperature sensor respectively. Designed for Covid-era needs, it ensures safe and efficient identity verification, real-time health checks, and auto-reporting, all in one system while maintaining low cost and high reliability.
 
 ## Features <img src="https://github.com/user-attachments/assets/2f614bde-dd30-44f5-b9ac-0340aa266e93" width="20" height="20">
 1. **Face Recognition-Based Attendance** using Pi Camera and ML algorithms
