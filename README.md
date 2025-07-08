@@ -13,7 +13,7 @@ Covid Secure Recat is an integrated, contactless smart system developed using **
 6. **Database Logging** of attendance and temperature records
 7. **Image Dataset Training** from video frames for improved recognition accuracy
 
-## Project Workflow <img src="https://github.com/user-attachments/assets/f812e2ab-c9a0-48ab-a4d8-8fe209617b19" width="25" height="25">
+## Project Workflow <img src="https://github.com/user-attachments/assets/a33ecd9f-cc0f-49e0-b1c3-7c4d6b9676d1" width="20" height="20">
 1. **Video Dataset Capture** - Extracted face images from 10s videos
 2. **Face Training** - Stored and labeled face encodings
 3. **Real-Time Recognition** - Camera matches face and checks against trained data
@@ -22,3 +22,6 @@ Covid Secure Recat is an integrated, contactless smart system developed using **
 6. **SMTP Email Alert** - Sent if temperature exceeds threshold
 7. **Data Upload to Database** - Attendance + Temp data logged
 8. **Web Interface** - Admin can download reports, users can view their own data
+
+## Authors
+Saksha S Bhandary | Ramya | Sushmitha M Kulal | Shibani Lorraine Pinto
